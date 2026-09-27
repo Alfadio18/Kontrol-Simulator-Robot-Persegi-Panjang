@@ -21,7 +21,7 @@ Repository ini berisi program ROS 2 berbasis Python untuk mengontrol pergerakan 
 
 ## Cara Menjalankan Program
 
-1. Pastikan file kode node penjelajah sudah dimasukkan ke dalam package ROS 2 Anda (misalnya di `simple_mover/simple_mover/rectangle_mover_node.py`).
+1. Pastikan file kode node penjelajah sudah dimasukkan ke dalam package ROS 2 ( `simple_mover/simple_mover/rectangle_mover_node.py`).
 2. Masuk ke direktori *workspace* ROS 2 Anda, lalu lakukan *build* package:
    ```bash
    cd ~/ros2_ws
